@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Simple Weather API Wrapper Documentation</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        pre {
-            background-color: #f5f5f5;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
     <h1>Simple Weather API Wrapper</h1>
     
     <h2>Project Overview</h2>
@@ -98,7 +76,7 @@ curl -X GET "http://localhost:3000/weather?city=London"
     <h2>Contributing</h2>
     <p>If you wish to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!</p>
     <h2>Contributors</h2
-    <p>ERNEST KYERE:For questions or inquiries, please contact Ernest Kyere at rnstkr@gmail.com</p>
+    <p>ERNEST KYERE: For questions or inquiries, please contact Ernest Kyere at rnstkr@gmail.com</p>
     
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
