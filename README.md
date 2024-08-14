@@ -3,7 +3,7 @@
 </div>
 
 <h2>Project Overview</h2>
-    <p>The Simple Weather API Wrapper is a backend service that provides a simplified interface for retrieving weather data from the OpenWeatherMap API. This API wrapper allows users to get access to real-time weather information such as temperature, humidity, wind speed, and weather conditions by the city name that they would like to access that dtata.</p>
+    <p>The Simple Weather API Wrapper is a backend service that provides a simplified interface for retrieving weather data from the OpenWeatherMap API. This API wrapper allows users to get access to real-time weather information such as temperature, humidity, wind speed, and weather conditions by the city name that they would like to access that data.</p>
 
 <h2>Features</h2>
     <ul>
