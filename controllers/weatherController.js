@@ -2,7 +2,7 @@ const axios = require('axios');
 const apiBaseURL = "http://api.openweathermap.org/data/2.5";
 const apiKey = process.env.API_KEY; // Loading the API key from environment variables
 
-// Fetching the recent weather
+// Fetching  data for the recent weather
 exports.getCurrentWeather = async (req, res) => {
   const { city } = req.query;
   try {
@@ -19,7 +19,7 @@ exports.getCurrentWeather = async (req, res) => {
   }
 };
 
-// Fetching the weather forecast
+// Fetching data for the weather forecast
 exports.getWeatherForecast = async (req, res) => {
   const { city } = req.query;
   try {
