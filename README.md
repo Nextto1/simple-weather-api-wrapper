@@ -73,7 +73,8 @@ curl -X GET "http://localhost:3000/weather?city=London"
     </pre>
 
 <h2>Testing the API</h2>
-    <p>You can use tools like Postman or curl to test the API endpoints. Simply replace the city parameter in the URL to get the weather data for different locations.</p>
+    <p>First option:You can use tools like Postman or curl to test the API endpoints. Simply replace the city parameter in the URL to get the weather data for different locations.</p>
+    <p>Second option:Start the server then navigate into your browser.Type "Localhost:5000" into the address bar.The interface will display for you to enter the particular city that you want it's weather update.</p>
 
  <h2>Contributing</h2>
     <p>If you wish to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!</p>
